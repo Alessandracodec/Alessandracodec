@@ -2,7 +2,7 @@
 
 Bem-vindo! Olá, meu nome é Alessandra Azevedo. Em 2025, decidi dar um novo passo na minha jornada profissional e embarcar na carreira de desenvolvedora Front-End.
 
-Tenho uma base sólida em programação, com experiência em diversas linguagens, como C, Java e alguns frameworks. Minha trajetória na área começou em 2021, quando iniciei meus estudos em Ciência da Computação na Instituição São Francisco de Assis, localizada em Porto Alegre.
+Com uma base sólida em programação, e experiências com diversas linguagens, como C, Java e alguns frameworks. Minha trajetória na área começou em 2021, quando iniciei meus estudos em Ciência da Computação na Instituição São Francisco de Assis, localizada em Porto Alegre.
 
 
 <div style="display: inline_block"><br>
