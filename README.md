@@ -1,17 +1,15 @@
 ##  Desenvolvedora Front-End!
 
-Bem-vindo! Olá, meu nome é Alessandra Azevedo. Em 2025, decidi dar um novo passo na minha jornada profissional e embarcar na carreira de desenvolvedora Front-End.
+Bem-vindo! Olá,me chamo Alessandra Azevedo. Em 2025, decidi dar inicio em minha  jornada profissional, Com uma base sólida em programação, e experiências com diversas linguagens, como C, Java e alguns frameworks. Minha experiencia  na área começou em 2021, quando iniciei meus estudos em Ciência da Computação na Instituição São Francisco de Assis, localizada em Porto Alegre.e embarcar na carreira de desenvolvedora Front-End.
 
-Com uma base sólida em programação, e experiências com diversas linguagens, como C, Java e alguns frameworks. Minha trajetória na área começou em 2021, quando iniciei meus estudos em Ciência da Computação na Instituição São Francisco de Assis, localizada em Porto Alegre.
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
+  <img align="center" alt="lele-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt=lele-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="lele-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="lele-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="lele-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 
 </div>
