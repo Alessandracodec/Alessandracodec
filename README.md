@@ -1,7 +1,9 @@
-##  Desenvolvedora Front-End!
+Bem-vindo(a)! 👋
+Olá! Me chamo Alessandra Azevedo. Em 2025, decidi iniciar minha jornada profissional na área de Desenvolvimento Front-end. Tenho uma base sólida em programação e experiência com linguagens como C, Java e alguns frameworks.
 
-Bem-vindo! Olá,me chamo Alessandra Azevedo. Em 2025, decidi dar inicio em minha  jornada profissional, Com uma base sólida em programação, e experiências com diversas linguagens, como C, Java e alguns frameworks. Minha experiencia  na área começou em 2021, quando iniciei meus estudos em Ciência da Computação na Instituição São Francisco de Assis, localizada em Porto Alegre.e embarcar na carreira de desenvolvedora Front-End.
+Minha trajetória na tecnologia começou em 2021, quando iniciei meus estudos em Ciência da Computação na Instituição São Francisco de Assis, em Porto Alegre. Desde então, venho aprimorando minhas habilidades e explorando novas tecnologias para construir interfaces modernas e dinâmicas.
 
+🚀 Estou sempre em busca de desafios e aprendizado contínuo. Sinta-se à vontade para explorar meus projetos e colaborar!
 
 
 <div style="display: inline_block"><br>
